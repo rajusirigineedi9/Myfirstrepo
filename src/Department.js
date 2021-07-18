@@ -3,7 +3,7 @@ import React from 'react'
 function Department() {
     return (
         <div>
-           <h1>Department</h1> 
+           <h1>Departments</h1> 
         </div>
     )
 }
